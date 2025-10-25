@@ -100,7 +100,14 @@ naraakom-mobile-app/
 
 
 ---
+## 🔗 Live App
 
+📱 **Download Nar’aakom:**
+
+- **Google Play Store:** [Nar’aakom on Play Store](https://play.google.com/store/apps/details?id=qa.phcc.mobile&hl=en)  
+- **Apple App Store:** [Nar’aakom on App Store](https://apps.apple.com/us/app/naraakom/id1540048654)
+
+---
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
